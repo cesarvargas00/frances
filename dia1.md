@@ -7,7 +7,7 @@
 -  Nous           - sommes
 -  Vous           - êtes
 -  Ils/Elles      - sont
-  
+
 ### manger - comer
 -  Je            - mange
 -  tu            - manges
